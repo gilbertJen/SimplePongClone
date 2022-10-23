@@ -1,8 +1,7 @@
 # SimplePongClone
 Clone of Pong made using python turtle module
 Game is based on freecodecamp's python games
-Game keeps score
-Game loops until window is closed
+Font is "Minecraft" by Craftron Gaming
 
 Dependencies:
 python3
